@@ -1,4 +1,4 @@
 # Repositorio dedicado a subir ejemplos en distintos lenguajes de programación.
 
 Python: 
-Los ejemplos son soluciones a problemas de [https://leetcode.com/](leetcode)
+Los ejemplos son soluciones a problemas de [leetcode](https://leetcode.com/)
