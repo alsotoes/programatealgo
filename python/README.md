@@ -1,1 +1,3 @@
-* Agregando codigos personales de leetcode
+Códigos de leetcode:
+
+- 01.two-sum.py
